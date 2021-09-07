@@ -1,0 +1,38 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+body {
+    background-color: #EFEFEF;
+    font-family: 'Courier New', Courier, monospace;
+}
+section {
+    background-color: white;
+    border: double;
+    margin: 10px auto auto auto;
+    height: 450px;
+    width: 985px;
+    text-align: center;
+    margin: 30px auto;
+}  
+div {
+    margin: 30px 192px;
+}
+nav {
+    border-top: 2px solid black;
+    border-bottom: 1px solid black;
+    word-spacing: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+li {
+    display: inline;
+    text-transform: uppercase;
+    color: black;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: #DB6D8F;
+}
